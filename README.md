@@ -1,18 +1,9 @@
-<!-- ===================================================== -->
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="100%">
 
-<!--                    HERO SECTION                       -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="300"> -->
 
-<!-- ===================================================== -->
-
-![Action Packed](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Action-Packed.gif)
-
-<!-- <p align="center">
-  <img
-    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-    width="100%"
-    alt="Coding workspace animation"
-  />
-</p> -->
+<!-- Mario -->
+<!-- <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500"> -->
 
 <h1 align="center">
   <img
@@ -28,6 +19,11 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Saumya-design1&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
 </p>
+<div align = "center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">  
+  <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="100">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e4f28204-ea88-4364-a321-8330c3fbde6a" width="100">
+</div>
 
 ---
 
@@ -265,15 +261,20 @@ alt="GitHub Contribution Snake"
 
 # 💭 Developer Mindset
 
-<p align="center">
+<div align="center">
 
 ### **Learn → Build → Break → Fix → Improve → Repeat 🔁**
-
-<br>
+<p align="center">
+  <img
+    src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+    width="300"
+    alt="Coding workspace animation"
+  />
+</p>
 
 *"Every project is another step forward."* 🚀
 
-</p>
+</div>
 
 ---
 
